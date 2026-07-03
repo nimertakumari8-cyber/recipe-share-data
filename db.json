@@ -41,6 +41,152 @@
         "Char the corn over a grill until spotted black in places.",
         "Slice the kernels off and toss with feta, lime, and oil."
       ]
+    },
+    {
+      "id": "3",
+      "title": "Miso-Butter Salmon",
+      "author": "@umami_ben",
+      "description": "Flaky salmon glazed with a sweet-savory miso butter.",
+      "seed": "miso-butter-salmon",
+      "prep": 10,
+      "cook": 12,
+      "difficulty": "Medium",
+      "servings": 2,
+      "tags": ["Seafood", "Japanese"],
+      "ingredients": [
+        { "qty": 2, "unit": "fillets", "name": "salmon" },
+        { "qty": 2, "unit": "tbsp", "name": "white miso paste" }
+      ],
+      "steps": [
+        "Mix miso, butter, and honey into a glaze.",
+        "Spread over salmon and sear, then finish in the oven."
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Spiced Chickpea Stew",
+      "author": "@plantpowered",
+      "description": "A warming one-pot stew with cumin, cinnamon, and coconut milk.",
+      "seed": "chickpea-stew",
+      "prep": 10,
+      "cook": 30,
+      "difficulty": "Easy",
+      "servings": 4,
+      "tags": ["Vegan", "Stew"],
+      "ingredients": [
+        { "qty": 2, "unit": "cans", "name": "chickpeas, drained" },
+        { "qty": 1, "unit": "can", "name": "coconut milk" }
+      ],
+      "steps": [
+        "Sauté the onion until soft.",
+        "Add cumin and cinnamon, stirring until fragrant.",
+        "Pour in tomatoes, coconut milk, and chickpeas, and simmer 20 minutes."
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Blackberry Ricotta Galette",
+      "author": "@floursugarbutter",
+      "description": "A rustic free-form tart with juicy blackberries and creamy ricotta.",
+      "seed": "blackberry-galette",
+      "prep": 30,
+      "cook": 40,
+      "difficulty": "Medium",
+      "servings": 8,
+      "tags": ["Dessert", "Baking"],
+      "ingredients": [
+        { "qty": 1, "unit": "", "name": "pie dough, chilled" },
+        { "qty": 300, "unit": "g", "name": "blackberries" }
+      ],
+      "steps": [
+        "Roll the dough into a rough circle.",
+        "Spread ricotta over the center, top with blackberries.",
+        "Fold the edges over and bake at 200°C for 35–40 minutes."
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Smoky Black Bean Tacos",
+      "author": "@tacotuesday",
+      "description": "Chipotle-smoked black beans, quick pickled onion, and avocado crema.",
+      "seed": "black-bean-tacos",
+      "prep": 15,
+      "cook": 15,
+      "difficulty": "Easy",
+      "servings": 4,
+      "tags": ["Mexican", "Vegetarian"],
+      "ingredients": [
+        { "qty": 2, "unit": "cans", "name": "black beans, drained" },
+        { "qty": 8, "unit": "", "name": "small tortillas" }
+      ],
+      "steps": [
+        "Quick-pickle sliced red onion in lime juice.",
+        "Warm the beans with chipotle powder, mashing lightly.",
+        "Fill warm tortillas with beans, onion, and avocado crema."
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Lemon Herb Roast Chicken",
+      "author": "@sundaysupper",
+      "description": "Crisp-skinned roast chicken stuffed with lemon and thyme.",
+      "seed": "lemon-herb-chicken",
+      "prep": 15,
+      "cook": 75,
+      "difficulty": "Medium",
+      "servings": 4,
+      "tags": ["Dinner", "Roast"],
+      "ingredients": [
+        { "qty": 1, "unit": "", "name": "whole chicken" },
+        { "qty": 1, "unit": "", "name": "lemon, halved" }
+      ],
+      "steps": [
+        "Stuff the cavity with lemon and thyme.",
+        "Rub the skin with butter and season generously.",
+        "Roast at 220°C for 20 minutes, then 190°C for 55 minutes more."
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Coconut Curry Noodles",
+      "author": "@noodlebowl",
+      "description": "Silky rice noodles in a fragrant coconut-lemongrass broth.",
+      "seed": "coconut-curry-noodles",
+      "prep": 15,
+      "cook": 20,
+      "difficulty": "Medium",
+      "servings": 3,
+      "tags": ["Noodles", "Curry"],
+      "ingredients": [
+        { "qty": 200, "unit": "g", "name": "rice noodles" },
+        { "qty": 1, "unit": "can", "name": "coconut milk" }
+      ],
+      "steps": [
+        "Soak the noodles in hot water until tender.",
+        "Fry the curry paste, then add coconut milk and simmer.",
+        "Stir in noodles and lime juice before serving."
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Brown Butter Chocolate Chip Cookies",
+      "author": "@thebakingdiary",
+      "description": "Nutty brown butter and flaky sea salt take a classic cookie somewhere new.",
+      "seed": "brown-butter-cookies",
+      "prep": 20,
+      "cook": 12,
+      "difficulty": "Easy",
+      "servings": 18,
+      "tags": ["Dessert", "Cookies"],
+      "ingredients": [
+        { "qty": 225, "unit": "g", "name": "butter" },
+        { "qty": 250, "unit": "g", "name": "chocolate chips" }
+      ],
+      "steps": [
+        "Brown the butter until amber and nutty-smelling.",
+        "Whisk with sugars and eggs, then fold in flour and chocolate chips.",
+        "Chill 30 minutes, then bake at 190°C for 10–12 minutes."
+      ]
     }
   ]
 }
