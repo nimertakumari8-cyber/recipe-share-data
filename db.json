@@ -1,1 +1,46 @@
-
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Grandma's Sunday Ragù",
+      "author": "@nonna_lucia",
+      "description": "A slow-simmered tomato and beef ragù passed down three generations.",
+      "seed": "ragu-sunday",
+      "prep": 20,
+      "cook": 180,
+      "difficulty": "Hard",
+      "servings": 6,
+      "tags": ["Italian", "Comfort Food"],
+      "ingredients": [
+        { "qty": 900, "unit": "g", "name": "beef chuck, cubed" },
+        { "qty": 1, "unit": "", "name": "yellow onion, diced" },
+        { "qty": 800, "unit": "g", "name": "crushed tomatoes" }
+      ],
+      "steps": [
+        "Season the beef and sear until deeply browned on all sides.",
+        "Add onion and cook until softened.",
+        "Stir in tomatoes and simmer on low for 3 hours."
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Charred Corn & Feta Salad",
+      "author": "@summerkitchen",
+      "description": "Sweet charred corn, salty feta, and a lime-chili dressing.",
+      "seed": "corn-feta-salad",
+      "prep": 15,
+      "cook": 10,
+      "difficulty": "Easy",
+      "servings": 4,
+      "tags": ["Salad", "Vegetarian"],
+      "ingredients": [
+        { "qty": 4, "unit": "", "name": "ears of corn" },
+        { "qty": 150, "unit": "g", "name": "feta, crumbled" }
+      ],
+      "steps": [
+        "Char the corn over a grill until spotted black in places.",
+        "Slice the kernels off and toss with feta, lime, and oil."
+      ]
+    }
+  ]
+}
