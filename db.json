@@ -6,9 +6,9 @@
       "author": "@nonna_lucia",
       "description": "A slow-simmered tomato and beef ragù passed down three generations.",
       "seed": "ragu-sunday",
-      "prep": 30,
+      "prep": 20,
       "cook": 180,
-      "difficulty": "Hard",
+      "difficulty": "easy",
       "servings": 6,
       "tags": ["Italian", "Comfort Food"],
       "ingredients": [
